@@ -1,1 +1,1 @@
-# sss-validation-service
+# SSS Validation Service
